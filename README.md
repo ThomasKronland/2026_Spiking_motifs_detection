@@ -4,8 +4,10 @@ This repository contains the codes for the paper [Detection of spiking motifs of
 
 ## Description 
 
-- /Random_patterns_experiments contains experiment code on randomly generated spiking motifs.
-- /SHD_experiments contains experiment code on the Spiking Heidelberg Digits (SHD) database.
+This repository contains two experiments in two separate folders:
+
+- `/Random_patterns_experiments` contains experiment code on randomly generated spiking motifs.
+- `/SHD_experiments` contains experiment code on the Spiking Heidelberg Digits (SHD) database.
 
 ## Installation
 
@@ -13,8 +15,8 @@ Python version : 3.11.15
 
 ### Requirements
 
-Cf. requirements.txt or environment.yml
+Cf. `requirements.txt` or `environment.yml`
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the `LICENSE.md` file for details
